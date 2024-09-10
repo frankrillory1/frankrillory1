@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas vindas ao meu perfil:
 
-<!--
-**frankrillory1/frankrillory1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Rillory
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo na limguagem JavaScript
+- Utilizo esse espaçopara a minha organização e compartilhamento dos meu projetos desenvolvidos
+   
+## Você entra em contato comigo :[frankrillory@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+frankrillory@gmail.com
+
+@rillryfrank1
+
+![](https://media1.tenor.com/m/_t0sHU9OPmsAAAAC/-.gif)
